@@ -9,4 +9,4 @@ In this sample, the program creates a 10x10 board, with a winning run size of 4,
 The tag -b can be used instead of -m, which stores the board in bits rather than a 2D matrix. Both internal storage systems appear the same to the users. 
 
 This was my final project for CMSC14300: Systems Programming I. 
-It's coded entirely in C and features key systems programming concepts including linked lists, queues, matrices, bitwise operations and representations, bitmasking, command line args, a text-user interface, and C structs. 
+It's coded entirely in C and features key systems programming concepts including linked lists, queues, matrices, recursion, bitwise operations and representations, bitmasking, command line args, a text-user interface, C structs, and a robust test suite. 
